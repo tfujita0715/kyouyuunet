@@ -136,3 +136,4 @@ if __name__ == '__main__':
             filepath = os.path.join(CSV_DIRECTORY, filename)
             analyze_and_create_network(filepath, COLUMN_NAME)
             print("- すべての処理が完了しました ---")
+#このコードはAIのアシストの元作成されました
