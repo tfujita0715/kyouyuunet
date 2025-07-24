@@ -48,4 +48,3 @@ if __name__ == '__main__':
             if convert_excel_to_csv(filepath):
                 converted_count += 1
         print(f"\n--- {converted_count}個のファイルの変換が完了しました ---")
-#このコードはAIのアシストの元作成されました
